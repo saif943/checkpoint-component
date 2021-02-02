@@ -1,0 +1,11 @@
+.App {
+background-color: rgb(151, 240, 240) ;
+padding: 4% 2% ;
+margin: 8% 8%;
+}
+.name,.adr {
+    font-size: larger;
+    font-style: italic;
+    font-weight: bold;
+    color: brown;
+}
